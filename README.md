@@ -46,4 +46,4 @@ This project is a RESTful web application built using Spring Boot that performs 
 - Add frontend UI
 
 ## 👩‍💻 Author
-Sreeja Gogireddy
+Sreeja Reddy
