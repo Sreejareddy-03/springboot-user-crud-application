@@ -1,14 +1,20 @@
 # Spring Boot User CRUD Application
 
 ## 📌 Overview
-This project is a RESTful web application built using Spring Boot that performs CRUD (Create, Read, Update, Delete) operations on user data.
+Developed a backend RESTful web application using Spring Boot to manage user data efficiently. The application provides APIs to perform CRUD operations and follows a layered architecture for better scalability and maintainability.
 
 ## 🚀 Features
-- Create new user
-- Retrieve all users
-- Retrieve user by ID
-- Update existing user
-- Delete user
+- Implemented REST APIs for user management
+- Performed CRUD operations(create, Read, Update, Delete)
+- Integrated MySQL database using spring Data JPA
+- Implemented exception handling for bettr error management
+- Tested APIs using Postman
+
+## 🧠 My Contribution
+-Designed and implemented backend architecture
+- Developed controller,service, and repository layers
+- Integrated database and handled data persistence
+- Tested and debugged APIs using Postman
 
 ## 🛠️ Technologies Used
 - Java
