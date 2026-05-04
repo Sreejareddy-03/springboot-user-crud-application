@@ -45,6 +45,11 @@ Developed a backend RESTful web application using Spring Boot to manage user dat
 2. Configure database in `application.properties`
 3. Run the Spring Boot application
 4. Use Postman to test APIs
+
+ ## 📸 API Testing (Postman)
+
+### Get User (GET)
+![Get User](get-user.png)
    
 ## 📊 Future Improvements
 - Add validation
